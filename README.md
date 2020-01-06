@@ -1,4 +1,2 @@
 # googlemapTypescript
-google-map with typescriptS
-Simple google maps with react!
- 
+Simple google maps with typescript
